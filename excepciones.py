@@ -13,6 +13,7 @@ class DatoInvalidoError(ErrorSistemaFJ):
 class ParametroFaltanteError(ErrorSistemaFJ):
     """Se lanza cuando falta un argumento obligatorio para crear o procesar algo."""
     pass
+    
 
 
 class ServicioNoDisponibleError(ErrorSistemaFJ):
