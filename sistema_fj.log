@@ -1,0 +1,14 @@
+026-11-24 22:29:38 - [INFO] - Sistema Software FJ iniciado correctamente.
+2026-11-24 22:29:38 - [INFO] - Cliente registrado: Laura Gomez con ID C001
+2026-11-24 22:29:38 - [INFO] - Cliente registrado: Carlos Perez con ID C002
+2026-11-24 22:29:38 - [ERROR] - Operacion 3 fallida: El correo ingresado no es valido.
+2026-11-24 22:29:38 - [INFO] - Sala creada: Sala Juntas Norte
+2026-11-24 22:29:38 - [INFO] - Equipo creado: Portatil Workstation
+2026-11-24 22:29:38 - [INFO] - Asesoria creada: Arquitectura Cloud
+2026-11-24 22:29:38 - [ERROR] - Operacion 7 fallida: La tarifa base debe ser mayor a 0.
+2026-11-24 22:29:38 - [INFO] - Reserva R001 confirmada para Laura Gomez - Total: $176715.0
+2026-11-24 22:29:38 - [ERROR] - Operacion 9 fallida: No se pudo procesar la reserva R002 | Causa original: El servicio Sala Juntas Norte no esta disponible.
+2026-11-24 22:29:38 - [INFO] - Reserva R003 confirmada para Carlos Perez - Total: $135000.0
+2026-11-24 22:29:38 - [ERROR] - Operacion 11 fallida: No se pudo procesar la reserva R004 | Causa original: El descuento debe estar entre 0 y 100.
+2026-11-24 22:29:38 - [INFO] - Reserva R001 ha sido cancelada.
+2026-11-24 22:29:38 - [ERROR] - Operacion 12 fallida: La reserva ya se encuentra cancelada.
